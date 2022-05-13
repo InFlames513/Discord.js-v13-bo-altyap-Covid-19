@@ -19,4 +19,4 @@ Lisans satılık değildir teklif etmeyiniz.
 
 ## Hata
 
-Sorun olursa ya da kuramassanız discord adresimiz: https://discord.gg/HFhyNaKUB6
+Sorun olursa ya da kuramassanız discord adresimiz: https://discord.gg/css
